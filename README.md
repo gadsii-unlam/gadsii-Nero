@@ -51,7 +51,3 @@ Como todavía no existe una medición institucional que cruce cursada, trabajo, 
 Esto equivale aproximadamente a entre **9.000 y 15.000 estudiantes**.
 
 > Esta cifra es una estimación de trabajo y deberá revisarse con la evidencia obtenida en el TP2.
-
-### Fuente
-
-[Informe final de Evaluación Externa CONEAU 2024](https://www.unlam.edu.ar/wp-content/uploads/2024/12/Informe-final-Evaluacion-Externa-CONEAU-2024.pdf)
