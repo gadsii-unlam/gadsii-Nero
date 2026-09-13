@@ -1,0 +1,21 @@
+﻿Pregunta;U1;U2;U3
+Año de Ing. Informática que cursa;4;4;4
+Cantidad de materias que cursa este cuatrimestre;6;6;6
+¿Trabaja actualmente?;Sí;Sí;No
+Si trabaja, ¿cuántas horas por día en promedio?;6;9;
+¿Tiene responsabilidades familiares que le demanden tiempo regularmente?;No;No;No
+¿Cómo organiza hoy sus entregas y evaluaciones? (agenda del celular, WhatsApp, papel, MIEL, ninguna, otro);WhatsApp;ninguna;agenda del celular
+En el último cuatrimestre, ¿se olvidó o se enteró tarde de una entrega o parcial?;Sí;Sí;Sí
+¿Qué es lo que más le complica de cómo se organiza hoy?;Es incómodo buscarlo;No tengo organización;Se complica coordinar con otras personas
+¿Siente con frecuencia que tiene más responsabilidades de las que puede manejar?;Sí;Sí;Sí
+¿A qué atribuye principalmente esos momentos de sobrecarga? (cursada, trabajo, familia, combinación, otro);combinación;combinación;combinación
+¿Prefiere ver sus pendientes en una lista simple sin orden o agrupados por día con prioridad marcada?;agrupados por día con prioridad marcada;agrupados por día con prioridad marcada;agrupados por día con prioridad marcada
+¿Desde qué dispositivo consulta habitualmente MIEL, mail o calendario? (celular, computadora, ambos);ambos;ambos;ambos
+¿Se queda sin buena conexión a internet cuando necesita revisar algo de la facultad?;No;Sí;No
+¿Registra hoy en algún lado su estado de ánimo o nivel de estrés?;No;No;No
+Si una app le preguntara en menos de 2 minutos cómo se siente (respetando la privacidad de su información) ¿la usaría?;No;Sí;Sí
+BLOQUE DE CONTEXTO LEIDO ANTES DE LAS 3 PREGUNTAS SIGUIENTES;(ver guia-de-preguntas.md);(ver guia-de-preguntas.md);(ver guia-de-preguntas.md)
+Después de conocer la propuesta, ¿la usaría en reemplazo de lo que usa hoy, la sumaría como algo adicional, o no la usaría?;En reemplazo;En reemplazo;En reemplazo
+De las funcionalidades descriptas, ¿cuál le resolvería algo que hoy no tiene resuelto?;Me ayudaría a organizarme mejor;Sin dato;Me ayudaría a evitar la acumulación de tareas y a controlar mi estado emocional
+¿Qué le generaría dudas o le haría no probarla?;Nada, la probaría;Sin dato;Que solicite información privada sin un motivo claro
+¿Confirma disponibilidad para la prueba del MVP en la última semana de septiembre?;Sí;Sí;Sí
