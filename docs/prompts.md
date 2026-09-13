@@ -38,7 +38,7 @@ Estos intercambios no delegan decisiones: la IA actuó como contraparte para dis
 
 | # | Prompt |
 |---|---|
-| 1 | "Tengo que hacer el TP3. ¿Hacemos como lo del otro día?" (adjuntando la consigna del TP3 y el material de la Clase 3) |
+| 1 | "Tengo que hacer el TP3. ¿Hacemos el checklist como lo del otro día?" (adjuntando la consigna del TP3 y el material de la Clase 3) |
 | 2 | Revisar la devolución del TP1 y explicar la observación sobre la cantidad de funcionalidades core. |
 | 3 | "Hablo de las funcionalidades, centrate en eso": analizar el recorte de seis funcionalidades core a cuatro. |
 | 4 | "Revisemos esto: qué se construye y qué se simula": discutir la tabla de construcción y simulación del MVP. |
